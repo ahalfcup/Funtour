@@ -1,5 +1,6 @@
-## 펀무브와 함게하는 전자의수 만들기 
-You can use the [editor on GitHub](https://github.com/ahalfcup/Funtour/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 펀무브와 함게하는 전자의수 제작 Project
+
+Modeling Tool : Autodesk 123D
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
