@@ -1,4 +1,4 @@
-## 펀무브와 함게하는 전자의수 제작 Project
+## 펀무브와 함께하는 전자의수 제작 Project
 
 Modeling Tool : Autodesk 123D
 
