@@ -1,31 +1,15 @@
 ## 펀무브와 함께하는 전자의수 제작 Project
 
 ### Team Member
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ -김영태
+ -박정은
+ -신우호
+ -김민재
+ -김창석
+ -박정민
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thanks To
+ -김승훈 Manager(Tide Institute)
 
 ### Link
 - [Fun Move (https://funmove.wordpress.com/)](https://funmove.wordpress.com/)
